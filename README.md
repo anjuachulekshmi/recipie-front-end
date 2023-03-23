@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+<h1 align="center">Happy Cart</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">An e-commerce platform</h3>
 
-## Available Scripts
+<br />
 
-In the project directory, you can run:
 
-### `npm start`
+<h2 align="center">🖥️ Tech Stacks</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h4 align="center">Frontend:</h4>
 
-### `npm test`
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="threejs" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="stripe" />
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h4 align="center">Backend:</h4>
 
-### `npm run build`
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h4 align="center">Deployed On:</h4>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="vercel" />
+  <img src="https://img.shields.io/badge/Cyclic-430098?style=for-the-badge&logo=cyclic&logoColor=white" alt="cyclic" />
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h3 align="center"><a href="https://happycart-official.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
-### `npm run eject`
+<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7042094659233341440/"><strong>Demo Video »</strong></a></h3>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
+  <br />&#10023;
+  <a href="#The-Little-AI">Getting Started</a> &#10023; 
+  <a href="#Contact">Author</a> &#10023;
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Happy Cart is a web-based application that allows users to browse, search, and purchase products online. The platform has a user-friendly interface that makes it easy for customers to find the products they are looking for, add them to their cart, and complete the checkout process. The platform also has a secure payment gateway that ensures that customer information and transactions are protected. Additionally, the platform has a back-end administration panel that allows site administrators to manage products, orders, and customers.
 
-## Learn More
+<br />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screens 
+- Homepage / Landing Page
+- Products Page 
+- Single product Page
+- Cart
+- Checkout Page
+- Order Page
+- Payment success page
+- Payment failure page
+- 404 page
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br />
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+ 
+## 🚀 Features
+- User authentication: users can sign up and log in to the platform
+- Product browsing: customers can browse and search for products based on category and price
+- Product details: customers can view detailed information about each product, including images, descriptions
+- Shopping cart: customers can add products to their shopping cart and proceed to checkout
+- Payment integration: the platform supports payment integration
+- Order tracking: customers can track the status of their orders
+- Admin dashboard: admins can manage the platform, view analytics, and moderate user-generated content.
+- Register || Login 
+- Fully responsive 
 
-### Making a Progressive Web App
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Screenshots :
 
-### Advanced Configuration
+<table>
+  <tr>
+    <td</td>
+  </tr>
+ </table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contact
 
-### Deployment
+If you want to contact me, you can reach me through below handles. <br />
+[![linkedin](https://img.shields.io/badge/Dhanush_Saji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anju-lekshmi-61b481241/)
+[![GitHub](https://img.shields.io/badge/Dhanush_Saji-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anjuachulekshmi/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2023 Anjulekshmi
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
