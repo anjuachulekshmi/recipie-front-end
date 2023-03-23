@@ -1,6 +1,4 @@
-<h1 align="center">Happy Cart</h1>
-
-<h3 align="center">An e-commerce platform</h3>
+<h1 align="center">Recipie App</h1>
 
 <br />
 
@@ -93,8 +91,8 @@ Happy Cart is a web-based application that allows users to browse, search, and p
 ## Contact
 
 If you want to contact me, you can reach me through below handles. <br />
-[![linkedin](https://img.shields.io/badge/Dhanush_Saji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anju-lekshmi-61b481241/)
-[![GitHub](https://img.shields.io/badge/Dhanush_Saji-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anjuachulekshmi/)
+[![linkedin](https://img.shields.io/badge/Anjulekshmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anju-lekshmi-61b481241/)
+[![GitHub](https://img.shields.io/badge/Anjulekshmi-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anjuachulekshmi/)
 
 
 
